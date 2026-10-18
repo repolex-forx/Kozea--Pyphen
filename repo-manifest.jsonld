@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Kozea/Pyphen/commit/708189702c917b95832b164bfd5fc6082f348d76",
       "git:hexsha": "708189702c917b95832b164bfd5fc6082f348d76",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:28:19.358059+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/Pyphen/commit/fa9f0d9b06de9c8ff83e9049fa2d44bd90a8858d",
